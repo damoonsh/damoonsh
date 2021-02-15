@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Computer Science students at [Ryerson University](https://www.ryerson.ca/), Toronto, ON, Canada. Interested in:
 
@@ -13,6 +13,12 @@ I have tkintered with different tools and concepts. My main passion is problem s
 
 I tend to read books, online documentations, and research papers to learn about a new tool or an Machine Learning algorithm. After Learning a new Machine Learning algorithm, I find a [Kaggle dataset](https://www.kaggle.com/datasets) and try to apply the theoretical concepts to the real-world application via coding.
 
+# Programming Languages
+- Python: Done several courses with at University. As well as most of my personal projects.
+- Rust: Was introduced to this course in ***Comparative Programming Languages*** at University
+- Java/C/C++/Bash: University courses
+- javascript/HTML/CSS/SQL: Taught myself these stacks for the web development
+
 # Data
 I took two courses on Coursera (Introduction to ML and Deep Learning specialization) to gain a basic knowledge of Machine Learning (and related sub-fields). After finishing the courses, I started reading Research papers, books and online documentations ([TensorFlow](https://www.tensorflow.org/api_docs), [PyTorch](https://pytorch.org/docs/stable/index.html), [sklearn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html), etc.) to deepen my knowledge. 
 
@@ -25,8 +31,9 @@ Alongside these readings, [Kaggle Competitions](https://www.kaggle.com/competiti
 - ***[Halite Competition](https://github.com/damoonsh/Halite)***: Reinforcement Learning competition were bots would compete against each other to gain the most halite.
 - ***[Mechanisms of Action](https://github.com/damoonsh/MoA)***: A novel approach to medical drug categorizing. 
 - ***[Kaggle-Survey-2020](https://github.com/damoonsh/Kaggle-Survey-2020)***: Analysis of the released dataset of 20,000 people surveyed on kaggle website about their Data Science skills.
-- ***[INGV - Volcano Eruption Time Prediction](https://github.com/damoonsh/Volcano)***: Signal Data of 10,000 volcano were provided and we were to process the data and predict each volcano's eruption time.
+- ***[INGV - Volcanic Eruption Time](https://github.com/damoonsh/Volcano)***: Signal Data of 10,000 volcano were provided and we were to process the data and predict each volcano's eruption time.
 - ***[Boston Housing Competition](https://github.com/damoonsh/Housing-Competition)***: Ongoing and famous public dataset where the price of houses are predicted using the given features.
+- ***[Cassava Leaf Disease Classification](https://github.com/damoonsh/Cassava-Leaf-Disease-Classification)***: Multi Image Classification competition where the type of disease for any given leaf should be categorized using Computer Vision.
 
 # Web
 - ***HTML/CSS***: Took a course in University, also went over numerous YouTube tutorials.
