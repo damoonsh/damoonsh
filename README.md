@@ -1,23 +1,25 @@
 ## Introduction
 
-Computer Science students at [Ryerson University](https://www.ryerson.ca/), Toronto, ON, Canada. Interested in:
+Computer Science student at [Ryerson University](https://www.ryerson.ca/), Toronto, ON, Canada. Interested in:
 
 - **```Machine Learning```**: Regression, Gradient Boosting, and general problem solving using data excites me.
 - **```Deep Learning```**: Computer Vision and Natural Language Processing are two fields that I constantly read about.
-- **```Rust Programming Language```**: It is believed Rust has the capacity to replace C therefore it will have a huge impact on future technologies (This is also evident since Amazon invested in the programming language). Also, I find the debugging tools for Rust very interesting.
-- **```Data Analytics```**: Aside from Machine Learning algorithms that find patterns within the data, cleaning and preprocessing data is an important factor in any Data Science project. Normalizing, scaling, and reducing dimension as well as feature engineering the data are some of the topics that I practice while doing [Kaggle Competitions](https://www.kaggle.com/competitions).
+- **```Rust Programming Language```**: It is believed that Rust has the capacity to replace C/C++ therefore it will have a huge impact on future technologies (This is also evident since Amazon invested in the programming language). Also, I find the debugging tools for Rust very interesting.
+- **```Data Analytics```**: Aside from Machine Learning algorithms that find patterns within the data, cleaning and preprocessing data is an important factor in any Data Science projects. Normalizing, scaling, and reducing dimension as well as feature engineering the data are some of the topics that I practice while doing [Kaggle Competitions](https://www.kaggle.com/competitions).
 
 # Skill Set
 
-I have tkintered with different tools and concepts. My main passion is problem solving and challenging myself. Building Web apps, competitive programming and working data-related projects are some topics that excite me.
+I have tkintered with different tools and concepts. My main passion is problem solving and challenging myself. Building Web apps, competitive programming and working on data-related projects are some topics that excite me.
 
 I tend to read books, online documentations, and research papers to learn about a new tool or an Machine Learning algorithm. After Learning a new Machine Learning algorithm, I find a [Kaggle dataset](https://www.kaggle.com/datasets) and try to apply the theoretical concepts to the real-world application via coding.
 
 # Programming Languages
-- Python: Done several courses with at University. As well as most of my personal projects.
-- Rust: Was introduced to this course in ***Comparative Programming Languages*** at University
-- Java/C/C++/Bash: University courses
-- javascript/HTML/CSS/SQL: Taught myself these stacks for the web development
+- **Python**: Done several courses with at University. As well as most of my personal projects.
+- **Rust**: Was introduced to this course in ***Comparative Programming Languages*** at University, currently doing some practice projects.
+- **R**: Use it mostly for low-level data visualization as well as data processing. Also, I teach R at Ryerson's bootcamps with a focus on business-related applications.
+- **Java/C/C++/Bash**: University courses
+- **JavaScript/HTML/CSS/SQL**: Taught myself these stacks for web development
+- **MatLab**: Took Applied Linear Algebra (MTH719) and programmed in MatLab. Also, did some programming SVM, Regression, and K-means algorithm
 
 # Data
 I took two courses on Coursera (Introduction to ML and Deep Learning specialization) to gain a basic knowledge of Machine Learning (and related sub-fields). After finishing the courses, I started reading Research papers, books and online documentations ([TensorFlow](https://www.tensorflow.org/api_docs), [PyTorch](https://pytorch.org/docs/stable/index.html), [sklearn](https://scikit-learn.org/stable/), [XGBoost](https://xgboost.readthedocs.io/en/latest/python/python_intro.html), etc.) to deepen my knowledge. 
